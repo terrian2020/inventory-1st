@@ -6,3 +6,4 @@ uptime
 cat /etc/*release
 top
 ls
+netstat

@@ -1,0 +1,8 @@
+lscpu
+lsblk
+uname -r
+free -m
+uptime
+cat /etc/*release
+top
+ls

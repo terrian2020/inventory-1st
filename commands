@@ -11,3 +11,6 @@ arch
 cal
 man
 sar
+nproc
+ip
+dns

@@ -7,3 +7,6 @@ cat /etc/*release
 top
 ls
 netstat
+arch
+cal
+man
